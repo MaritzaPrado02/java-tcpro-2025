@@ -3,7 +3,7 @@ Repositorio del curso de Java impartido por BEDU y TC Pro en 2025. Incluye ejerc
 
 ## 📂 Ejercicios
 
-Lista de RETOS ´JAVA BÁSICO´:
+Lista de RETOS `JAVA BÁSICO`:
 
 | # | Nombre | Tema | Fecha | Estado | Enlace |
 |---|--------|------|--------|--------|--------|
@@ -13,7 +13,7 @@ Lista de RETOS ´JAVA BÁSICO´:
 
 
 
-Lista de ejercicios JAVA INTERMEDIO:
+Lista de RETOS `JAVA INTERMEDIO`:
 
 | # | Nombre del ejercicio | Tema | Enlace |
 |---|-----------------------|------|--------|
