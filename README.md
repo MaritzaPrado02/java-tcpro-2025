@@ -8,7 +8,7 @@ Lista de ejercicios disponibles:
 - [Hola Mundo](enlace)
 
 
-##Estudiante:
-Maritza Prado
+## Estudiante:
+👩🏻‍💻 Maritza Prado
 
 🚀 Seguiremos subiendo más conforme avance el curso.
