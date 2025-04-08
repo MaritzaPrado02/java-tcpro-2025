@@ -7,7 +7,7 @@ Lista de ejercicios JAVA BÁSICO:
 
 | # | Nombre | Tema | Fecha | Estado | Enlace |
 |---|--------|------|--------|--------|--------|
-| 1 | Hola Mundo | Introducción a la Programación Orientada a Objetos en Java | 03-04-2025 | ✅ Hecho | [Ver](ejercicios/sesion-1/hola) |
+| 1 | Hola Mundo | Introducción a la Programación Orientada a Objetos en Java | 03-04-2025 | ✅ Hecho | [Ver](ejercicios/sesion-1/HolaMundo/hola) |
 | 2 | Estudiante | Introducción a la Programación Orientada a Objetos en Java | 03-04-2025 | ✅ Hecho | [Ver](ejercicios/condicionales.java) |
 | 3 | Por definir | Introducción a la Programación Orientada a Objetos en Java | 08-04-2025 | ⏳ Pendiente | [Ver](ejercicios/condicionales.java) |
 
